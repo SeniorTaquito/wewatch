@@ -1,17 +1,17 @@
 [
     {
         "id": "1j23hk12j",
-        "Email": "Dan@danco.com",
-        "Name": "Dan"
+        "email": "Dan@danco.com",
+        "name": "Dan"
     },
     {
         "id": "sad9asd7as",
-        "Email": "Jess@danco.com",
-        "Name": "Jessica"
+        "email": "Jess@danco.com",
+        "name": "Jessica"
     },
     {
         "id": "asda8as6as",
-        "Email": "Ali@danco.com",
-        "Name": "Ali"
+        "email": "Ali@danco.com",
+        "name": "Ali"
     }
 ]
